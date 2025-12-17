@@ -1,0 +1,14 @@
+difference b/w git and GitHub?
+- Definition: Git is a distributed version control system. It helps developers track changes in their code, collaborate with others, and roll back to earlier versions if needed.
+- Key Features:
+- Keeps a full history of changes.
+- Allows branching and merging (work on features separately, then combine).
+- Works locally on your computer, no internet required.
+ 
+GitHub
+- Definition: GitHub is a cloud-based hosting platform for Git repositories. It adds collaboration tools, issue tracking, and project management features.
+- Key Features:
+- Stores Git repositories online.
+- Enables collaboration with teammates worldwide.
+- Provides pull requests, code reviews, and discussions.
+- Integrates with CI/CD pipelines, project boards, and wikis.
