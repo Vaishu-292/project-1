@@ -1,0 +1,28 @@
+BRANCH:A branch is a separate version of the code in a repository that lets you work on changes or new features without affecting the main code.
+Open the repository you want to copy.
+
+Fork:Click the Fork button 
+
+GitHub creates a copy of the repository in your account.
+
+Clone the forked repo to your system:
+
+git clone <your-fork-url>
+
+Make changes to the code.
+
+Commit and push changes to your fork.
+
+ Pull Request: is a request to merge your changes (from a branch or fork) into another repository or branch, usually the main branch.
+
+How it works:
+
+Make changes in a branch or fork
+
+Push the changes to GitHub
+
+Click New Pull Request
+
+Compare changes and submit the PR
+
+The owner reviews and merges it
